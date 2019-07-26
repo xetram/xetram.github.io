@@ -1,0 +1,11 @@
+baseURL = "https://xetram.github.io/"
+languageCode = "en-us"
+title = "जालक्षेत्रचयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+[params]
+  githubEditMePathBase = "https://github.com/xetram/xetram.github.io/edit/master/content/"
+  contactLink = "https://github.com/xetram/xetram.github.io/issues/new"
+  env = "production"
+  disqusShortcode = "xetram-projects-site"

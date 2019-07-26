@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main>
+    {{partial "default-content" .}}
+    <div class="css-treeview box">
+        {{ range .Pages.ByDate.Reverse }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}} {{ if not .Date.IsZero }} | {{.Date.Format "2006-01-02"}}{{ end }}</a>
+        </li>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
