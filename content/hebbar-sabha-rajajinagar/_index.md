@@ -8,7 +8,9 @@ sidebar: hebbar-sabha-rajajinagar_sidebar
 ## Intro
 - Hebbar Sabha main site [here](http://www.hebbarsabha.org/). 
 
-## Central Committee members (as of 2019):
+## Central Committee members:
+
+As of 2019:
 
 - Sri.Narasimhan B S
   - Ph: 65954528, 9738354916
