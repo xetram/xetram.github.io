@@ -1,0 +1,8 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: Home - Intro
+    url: /hebbar-sabha-rajajinagar/
+  - title: Events
+    url: https://calendar.google.com/calendar/embed?src=k4f4ku9pat5oef1ooeo89qnack%40group.calendar.google.com&ctz=Asia%2FKolkata
