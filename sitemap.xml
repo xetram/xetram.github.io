@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xetram.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/tags/getting_started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/hebbar-sabha-rajajinagar/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/rekhaa-catering/404/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/rekhaa-catering/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/custom_site_search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/hebbar-sabha-rajajinagar/</loc>
+  </url>
+  
+</urlset>

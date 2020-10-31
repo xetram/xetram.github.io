@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>प्रवेशः! on जालक्षेत्रचयः</title>
+    <link>https://xetram.github.io/</link>
+    <description>Recent content in प्रवेशः! on जालक्षेत्रचयः</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://xetram.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members</title>
+      <link>https://xetram.github.io/hebbar-sabha-rajajinagar/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xetram.github.io/hebbar-sabha-rajajinagar/members/</guid>
+      <description> Submit member info using this form (submissions will be manually curated and displayed).   </description>
+    </item>
+    
+    <item>
+      <title>Page Not Found</title>
+      <link>https://xetram.github.io/rekhaa-catering/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xetram.github.io/rekhaa-catering/404/</guid>
+      <description>Sorry, but the page you were trying to view does not exist. Try searching for it or looking at the URL to see if it looks correct.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://xetram.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xetram.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>जालक्षेत्रमिदमन्विष्यताम्</title>
+      <link>https://xetram.github.io/custom_site_search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xetram.github.io/custom_site_search/</guid>
+      <description>  (function() { var cx = &#39;003441740804712584864:ksacm50zxuq&#39;; var gcse = document.createElement(&#39;script&#39;); gcse.type = &#39;text/javascript&#39;; gcse.async = true; gcse.src = &#39;https://cse.google.com/cse.js?cx=&#39; + cx; var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(gcse, s); })();    </description>
+    </item>
+    
+  </channel>
+</rss>
