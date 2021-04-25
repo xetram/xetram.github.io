@@ -39,8 +39,18 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Please don’t block light coming down via balcony grills.
 
 ## Wiring
-- Most windows and ventilators have mosquito meshes. Please don’t make holes in them - we have made provisions for getting cable and internet connection from suitable points in the terrace. They should be intact when you leave.
+- UPS points are provided as follows:
+  - L0 and L1: below the L0 stairs.
+  - L2 and L3: In the terrace.
 
+### Cable and internet
+- Most windows and ventilators have mosquito meshes. Please don’t make holes in them - we have made provisions for getting cable and internet connection from suitable points in the terrace. They should be intact when you leave. If you MUST bring in a new wire (with owners' agreement, of course), use the pipe (covered by a dummy white plate) provided near the roof by the stairs in each floor.
+- Don't cut cables inside the boards; don't remove sockets. Use the sockets provided.
+    - Say you subscribe to Airtel internet service, and they use 2-pair cable. Just buy a short (8 pair) lan patch cable, cut it in two, join a the 2-pair cables at each end.
+- If you get a dish antenna, place it in the prescribed spot (consult the owners).
+- Your phone/ internet/ TV cables should be properly placed.
+    - They should not obstruct carefree movement.
+    - They should not increase ugliness.
 
 ## Appliances
 
