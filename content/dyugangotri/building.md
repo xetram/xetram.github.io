@@ -1,6 +1,5 @@
 +++
 title = "Building"
-unicode_script = "devanagari"
 +++
 
 ## Execution
