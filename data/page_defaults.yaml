@@ -6,3 +6,11 @@
     comments: true
     search: true
     sidebar: home_sidebar
+-
+  scope:
+    pathPrefix: "dyugangotri"
+  values:
+    layout: "page"
+    comments: true
+    search: true
+    sidebar: dyugangotri_sidebar
