@@ -18,10 +18,10 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - <span style="text-decoration:underline;">No smoking</span> anywhere in or around the building.
 - Background cultural norms: Traditional Hindu.
 
+### Workers
+- Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and plan to damage wiring by shorting cables, electricians littering the terrace etc..
 
 ## Damage, repair, modifications.
-
-
 
 - In case of any structural problem (eg. dampness, big leaks etc..) please inform us ASAP.
 - Responsibility/ share of repair will be reasonably assigned on a case-by-case basis.
@@ -33,13 +33,12 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Don't paint or write on walls with ink. We prefer not to paint walls in our eco-friendly, healthy building. Chalkpiece or other easily erasable material is ok - but should not erode walls.
 - Drive nails (if needed) only in grouts between bricks. Use preexisting nails where possible. Also, electric pipe positions can easily be deduced in our mud block walls - so you can avoid them by looking for slight linear color difference.
 
-
 ## Terrace and balconeys
 - We do rainwater harvesting. So no litter or pollution on the roof.
 - No fireworks there - rockets launched from bottles are ok.
 - Please don’t block light coming down via balcony grills.
 
-## Windows
+## Wiring
 - Most windows and ventilators have mosquito meshes. Please don’t make holes in them - we have made provisions for getting cable and internet connection from suitable points in the terrace. They should be intact when you leave.
 
 
