@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xetram.github.io/dyugangotri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/dyugangotri/building/</loc>
+  </url>
+  
+  <url>
     <loc>https://xetram.github.io/categories/</loc>
   </url>
   
@@ -12,6 +20,10 @@
   
   <url>
     <loc>https://xetram.github.io/hebbar-sabha-rajajinagar/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xetram.github.io/dyugangotri/norms/</loc>
   </url>
   
   <url>
