@@ -59,3 +59,4 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Tinxy wifi lock controller Demo [here](https://www.youtube.com/watch?v=WiY89FcC-Eo).
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
 - First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being turned on after 10PM. So, please take care.
+
