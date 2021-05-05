@@ -20,9 +20,9 @@ title = "+dyugangotri homes"
 
 ### Utilities
 - BESCOM (Electricity)
-    - C8EH-37259 5kW L0
-    - C8EH-37260 3kW L1
-    - C8EH-37261 3kW Motor
+    - C8EH-37259 (0021079340) 5kW L0
+    - C8EH-37260 (0363498932) 3kW L1
+    - C8EH-37261 (6709269344) 3kW Motor
 - BWSSB (Water and sewage)
 - GAIL (Piped Gas) connections for L0, L1 and L2
 - BBMP (Garbage clearance)
