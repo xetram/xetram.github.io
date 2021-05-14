@@ -68,6 +68,8 @@
     <script src="/webpack_dist/transliteration-bundle.js"></script>
     <script src="/non_webpack_js/disqus.js"></script>
     <script src="/webpack_dist/ui_lib-bundle.js"></script>
+    <script src="/webpack_dist/search-bundle.js"></script>
+
     <link rel="stylesheet" href="/css/fonts.css">
     <link rel="stylesheet" href="/css/@fortawesome/fontawesome-free/css/solid.min.css">
     
@@ -111,10 +113,7 @@
           </a>
         </div>
         <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
-          <form action="/search">
-            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
-          </form>
-          <a href="/custom_site_search/"  class="btn btn-default">Full search</a>
+          ✍
           <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
             <option value="devanagari" selected="">स</option>
             <option value="iast">ā</option>
@@ -136,8 +135,14 @@
             <option value="modi">𑘦𑘻𑘚𑘲</option>
             <option value="tirhuta_maithili">𑒁</option>
           </select>
+          🗨:
+          <select name="commentStyleDropdown" size="1" onchange="module_main.default.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
+          </select>
         </div>
         <div class="row col  d-flex justify-content-center">
+          <a href="full_search"  class="btn btn-secondary">🥽🔦</a>
           <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
           <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
         </div>
@@ -151,7 +156,10 @@
     <div class="row" name="contentRow">
       
       <aside class="col-md-3 card border " id="sidebar">
-        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <div id="fastSearch">
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्"  tabindex="0">
+          </div>
+          <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
           <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
             Menu <i class="fas fa-caret-down"></i></a>
         </div>
@@ -246,7 +254,7 @@
     </a>
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
-      Built on 2021 May 13 08:17:25 UTC. (<a href="http://google.com/search?q=08%3a17%3a25%20UTC to IST">IST</a>)
+      Built on 2021 May 14 14:17:55 UTC. (<a href="http://google.com/search?q=14%3a17%3a55%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
