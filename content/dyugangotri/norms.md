@@ -15,8 +15,9 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ## Occupancy
 - Any significant increase in occupancy requires prior approval. Examples: A few guests staying in for multiple weeks, or big group of visitors sleeping over.
 - Big events outside your premises (example: parties in the terrace) require prior approval.
-- <span style="text-decoration:underline;">No smoking</span> anywhere in or around the building.
+- <u>No smoking</u> anywhere in or around the building.
 - Background cultural norms: Traditional Hindu.
+- Use the main door lock we've provided. Don't put your own padlock. We might need to enter your residence for maintenance purposes even if you're away on a vacation (as specified in the agreement). Please note that there may even be an emergency and we live in the same building.
 
 ### Workers
 - Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and plan to damage wiring by shorting cables, electricians littering the terrace etc..
