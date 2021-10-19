@@ -17,10 +17,12 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Big events outside your premises (example: parties in the terrace) require prior approval.
 - <u>No smoking</u> anywhere in or around the building.
 - Background cultural norms: Traditional Hindu.
-- Use the main door lock we've provided. Don't put your own padlock. We might need to enter your residence for maintenance purposes even if you're away on a vacation (as specified in the agreement). Please note that there may even be an emergency and we live in the same building.
+- Please note that there may even be an emergency and we live in the same building. We might need to enter your residence for maintenance purposes even if you're away on a vacation (as specified in the agreement). Hence:
+  - Use the main door lock we've provided. It may be electronically operated (see demo link below). You can set a PIN to avoid accidental opening. 
+  - If you put your own padlock due to some contingency - be sure to provide us with a pair of keys. 
 
 ### Workers
-- Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and plan to damage wiring by shorting cables, electricians littering the terrace etc..
+- Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and planning to damage wiring by shorting cables, electricians littering the terrace etc..
 
 ## Damage, repair, modifications.
 
@@ -37,7 +39,8 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ## Terrace and balconeys
 - We do rainwater harvesting. So no litter or pollution on the roof.
 - No fireworks there - rockets launched from bottles are ok.
-- Please don’t block light coming down via balcony grills.
+- Please don’t put a clothes line facing neighbor Nadaf's balconey - he objects on aesthetic grounds. Drying rack should be fine.
+- First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being left on after 10PM. So, please take care.
 
 ## Wiring
 - UPS points are provided as follows:
@@ -47,7 +50,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ### Cable and internet
 - Most windows and ventilators have mosquito meshes. Please don’t make holes in them - we have made provisions for getting cable and internet connection from suitable points in the terrace. They should be intact when you leave. If you MUST bring in a new wire (with owners' agreement, of course), use the pipe (covered by a dummy white plate) provided near the roof by the stairs in each floor.
 - Don't cut cables inside the boards; don't remove sockets. Use the sockets provided.
-    - Say you subscribe to Airtel internet service, and they use 2-pair cable. Just buy a short (8 pair) lan patch cable, cut it in two, join a the 2-pair cables at each end.
+    - Say you subscribe to Airtel internet service, and they use 2-pair cable. Just buy a short (8 pair) lan patch cable, cut it in two, join the 2-pair cables at each end to the appliance and the cable provider wire.
 - If you get a dish antenna, place it in the prescribed spot (consult the owners).
 - Your phone/ internet/ TV cables should be properly placed.
     - They should not obstruct carefree movement.
@@ -59,5 +62,4 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Cabinet number lock - L1 code - 2016
 - Tinxy wifi lock controller Demo [here](https://www.youtube.com/watch?v=WiY89FcC-Eo).
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
-- First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being turned on after 10PM. So, please take care.
 
