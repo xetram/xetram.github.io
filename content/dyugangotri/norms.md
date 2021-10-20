@@ -31,16 +31,16 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Any significant modifications require written permission. Example: Drilling big holes, changing household wiring, wallpapers, painting.
 
 
-## Walls
-- Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
-- Don't paint or write on walls with ink. We prefer not to paint walls in our eco-friendly, healthy building. Chalkpiece or other easily erasable material is ok - but should not erode walls.
-- Drive nails (if needed) only in grouts between bricks. Use preexisting nails where possible. Also, electric pipe positions can easily be deduced in our mud block walls - so you can avoid them by looking for slight linear color difference.
-
 ## Terrace and balconeys
 - We do rainwater harvesting. So no litter or pollution on the roof.
 - No fireworks there - rockets launched from bottles are ok.
 - Please don’t put a clothes line facing neighbor Nadaf's balconey - he objects on aesthetic grounds. Drying rack should be fine.
 - First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being left on after 10PM. So, please take care.
+
+## Walls
+- Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
+- Don't paint or write on walls with ink. We prefer not to paint walls in our eco-friendly, healthy building. Chalkpiece or other easily erasable material is ok - but should not erode walls.
+- Drive nails (if needed) only in grouts between bricks. Use preexisting nails where possible. Also, electric pipe positions can easily be deduced in our mud block walls - so you can avoid them by looking for slight linear color difference.
 
 ## Wiring
 - UPS points are provided as follows:
@@ -59,7 +59,6 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ## Appliances
 
 - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY).
-- Cabinet number lock - L1 code - 2016
+- Cabinet number lock - L1 code - 2016 (Don't change this please.)
 - Tinxy wifi lock controller Demo [here](https://www.youtube.com/watch?v=WiY89FcC-Eo).
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
-
