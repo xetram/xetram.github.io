@@ -18,6 +18,18 @@ title = "+dyugangotri homes"
 - Chimneys installed in L0, L1, L2 kitchens.
 - Plentiful (heating and lighting) plug points throughout the building (inside and outside).
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- Roof thickness
+  - Plain roof - 5 inches
+  - Beam panel - The pannel thickness of mud concrete is around 3" and the screed above it is around 1.5".
+  - Filler slab - 5 inches including mud blocks?
+  - Jack arch - 3 inch rise
+- Lintel band - 4 inch thickness
+</details>
+
+
+
 ### Utilities
 - BESCOM (Electricity)
     - C8EH-37259 (0021079340) 5kW L0
