@@ -5,7 +5,8 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 
 ## About you
 - NO BROKERS PLEASE.  Available from Jan 2.
-- Vegetarians only. No dogs or cats.
+- No Non-Vegetarian food (meat, fish etc..) on premises.
+- No dogs or cats.
 - Contact 9880891907 ९८८०८९१०७ ೯೮೮೦೮೯೧೯೦೭
 
 
@@ -27,7 +28,11 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 - 2 bathrooms + kitchen views - [IG: 9 photos](https://www.instagram.com/p/CUuHBInBk_n/)
 - front room + video tour + e-lock 🔒 demo  - [IG: 3 photos, 3 vids](https://www.instagram.com/p/CUuIkTShH4A/)
 
-## Ads
+<details><summary>विज्ञापनानि</summary>
+
 - [NB](https://www.nobroker.in/property/2-bhk-apartment-for-rent-in-1690-6th-main-rd-bangalore-for-rs-16500/8a9fb4827c58eff0017c598bb97b639a/detail)
 - [OLX](https://www.olx.in/item/1666060147)
 - [FB](https://www.facebook.com/marketplace/item/588997152385839)
+- </details>
+
+
