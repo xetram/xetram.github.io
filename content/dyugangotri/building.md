@@ -65,12 +65,36 @@ Only partly successful -
   - Details stored elsewhere.
   - Purchase source: Arham Energies Bengaluru
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Panel Serial No.: WS09219001787378, WS09219001787374, WS09219001787522, WS09219001787490, WS09219001787619, WS09219001787624, WS09219001787413, WS09219001787483, WS09219001787482
+
+</details>
+
 ### Inverter System
-- Enphase IQ 7A Micro Inverter - 9 installed
+- Enphase IQ 7A Micro Inverter (366 VA peak) - 9 installed
 - Envoy S monitoring system.
 - Details stored elsewhere.
 - Sourcing: Cares Renewables, TN.
 
-### Energy meter
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Inverters: 122136005411, 122136005441, 122136006812, 122136006900, 122136007305, 122136007544, 122136011781, 122136011788, 122136011862.
+
+Management link [here](https://enlighten.enphaseenergy.com/activations/edit/2568741).
+</details>
+
+
+### Energy meter and wiring
 - Genus Bidirectional meter. Bengaluru.
   - Calibration report from BESCOM Chandapura (via Vinod)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Genus Sl no - 919595. Accuracy class 1. Tested and calibrated by BESCOM Chandapura.
+
+AC wiring - Havells 6mm  
+DC wiring - Microtek 4mm
+Distribution box with warning label - Sara.
+</details>
+
