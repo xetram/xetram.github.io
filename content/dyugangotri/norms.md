@@ -9,17 +9,21 @@ Welcome and have a pleasant stay. This page should help you fit right in. Owners
 Telegram channels for asynchronous communication (Owner and respective current occupant families only):
 
 - L1 [https://t.me/joinchat/XnMFL_ABLbcyNWUx](https://t.me/joinchat/XnMFL_ABLbcyNWUx)
-- L4?
+- L3?
 
 
 ## Occupancy
 - Any significant increase in occupancy requires prior approval. Examples: A few guests staying in for multiple weeks, or big group of visitors sleeping over.
 - Big events outside your premises (example: parties in the terrace) require prior approval.
 - <u>No smoking</u> anywhere in or around the building.
+- No Non-Vegetarian food (meat, fish etc..) on premises.
+- No alcohol, no drugs, no parties.
+- No illegal activities online or offline which could land me in trouble.
+- Segregating dry and wet waste is a must.
 - Background cultural norms: Traditional Hindu.
 - Please note that there may even be an emergency and we live in the same building. We might need to enter your residence for maintenance purposes even if you're away on a vacation (as specified in the agreement). Hence:
   - Use the main door lock we've provided. It may be electronically operated (see demo link below). You can set a PIN to avoid accidental opening. 
-  - If you put your own padlock due to some contingency - be sure to provide us with a pair of keys. 
+  - If you put your own padlock due to some contingency - be sure to provide us with a pair of keys.
 
 ### Workers
 - Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and planning to damage wiring by shorting cables, electricians littering the terrace etc..
