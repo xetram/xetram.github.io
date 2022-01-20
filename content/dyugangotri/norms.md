@@ -17,6 +17,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Big events outside your premises (example: parties in the terrace) require prior approval.
 - <u>No smoking</u> anywhere in or around the building.
 - No Non-Vegetarian food (meat, fish etc..) on premises.
+- No dogs or cats.
 - No illegal activities online or offline which could land me in trouble.
 - Segregating dry and wet waste is a must.
 - Background cultural norms: Traditional Hindu.
