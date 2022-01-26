@@ -60,8 +60,8 @@ Only partly successful -
 - BWSSB contractor was Govindarajulu (via nAgArjuna).
 
 ## Solar plant
-### Planning and approval
-- Dec 2021.
+- Planning and approval - Dec 2021. No contractors used - went in person via official channels.
+- Installation - Vinod
 
 ### Structure
 
@@ -89,6 +89,7 @@ Panel Serial No.: WS09219001787378, WS09219001787374, WS09219001787522, WS092190
 ### Inverter System
 - Enphase IQ 7A Micro Inverter (366 VA peak) - 9 installed
 - Envoy S monitoring system.
+  - Current transformer locations: Production side, Consumption side (Load only position).
 - Details stored elsewhere.
 - Sourcing: Cares Renewables, TN.
 
