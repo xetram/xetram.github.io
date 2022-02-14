@@ -4,7 +4,7 @@ on:
   push:
     branches: [ hugo-source ]
   pull_request:
-    branches: [ master, content ]
+    branches: [ hugo-source, content ]
   workflow_dispatch:
     inputs:
       logLevel:
