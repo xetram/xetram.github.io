@@ -35,4 +35,13 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 - [FB](https://www.facebook.com/marketplace/item/588997152385839)
 - </details>
 
+<details><summary>Known defects</summary>
+
+- Crack in the 2nd bedroom wall which is running from the base of the window to the floor level.
+  - We'd noticed this soon after construction. We check with our structural engineer - he clarified that this stress fracture is nothing to worry about. Just a cosmetic defect.
+- Crack in the bathroom mirror.
+  - This too is a cosmetic defect. Mirror is securely glued to the wood and fastened with screws. Crack edge is secured with transparent tape. The mirror should be quite usable as it is (going by our experience and that of the previous tenants).
+  - This problem happened soon after the mirror was placed during construction - most likely cause is differential expansion of the wood behind the mirror relative to the wall (less likely - sabotage by some worker). Same problem in other floors. In hindsight we should not have let the workers use wood underneath.
+</details>
+
 
