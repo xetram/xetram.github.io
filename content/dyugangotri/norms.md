@@ -26,7 +26,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
   - If you put your own padlock due to some contingency - be sure to provide us with a pair of keys.
 
 ### Workers
-- Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and planning to damage wiring by shorting cables, electricians littering the terrace etc..
+- Please oversee any workers you let into the premises throughout their stay. We've seen movers and packers soiling toilets, internet guys prying out socket plates and planning to damage wiring by shorting cables, electricians littering the terrace, plumbers planning to remove water sockets (instead of buying an adaptor) etc..
 
 ## Damage, repair, modifications.
 
@@ -60,9 +60,12 @@ Telegram channels for asynchronous communication (Owner and respective current o
     - They should not obstruct carefree movement.
     - They should not increase ugliness.
 
+## Plumbing
+- When installing water filters or washing machines - please take care to purchase appropriate adaptors which fit the fittings provided. Please don't let the plumber pry out fittings we've already installed. 
+
 ## Appliances
 
 - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY).
-- Cabinet number lock - L1 code - 2016 (Don't change this please.)
-- Tinxy wifi lock controller Demo [here](https://www.youtube.com/watch?v=WiY89FcC-Eo).
+- Wardrobe number lock code provided upon request (Don't change this please.)
+- Tinxy wifi lock controller 
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
