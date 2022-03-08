@@ -9,7 +9,7 @@ disablePathToLower = true
   githubEditMePathBase = "https://github.com/xetram/xetram.github.io/edit/master/content/"
   contactLink = "https://github.com/xetram/xetram.github.io/issues/new"
   env = "production"
-  disqusShortcode = "xetram-projects-site"
+  disqusShortcode = "xetram-site"
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "CSV"]
