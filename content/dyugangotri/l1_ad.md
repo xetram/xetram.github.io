@@ -14,7 +14,7 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 - 2 bedrooms, 2 bathrooms, big kitchen and hall, Fine balcony. 1st Floor. Door opens NW.
 - **Eco-friendly, Health Friendly** - No poisonous paints and finishes. 100% natural.
 - **Great architecture, classic style** - Bay window, spacious plan, Jack arch roof in hall, Filler slab roof in rooms, smooth mud-cement flooring, mud blocks.
-- **Super amenities**- No-touch Chimney, Electronic lock, UPS/ cable/ internet provisions, Plentiful (heating and lighting) plug points.
+- **Super amenities**- No-touch Chimney, Electronic-capable lock, UPS/ cable/ internet provisions, Plentiful (heating and lighting) plug points.
 - Covered parking for bikes. Ample street parking for cars.
 - Good, calm neighborhood - details [here](https://xetram.github.io/dyugangotri/neighborhood/) .
 
