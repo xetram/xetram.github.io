@@ -66,7 +66,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 
 ## Appliances
 
-- Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY).
+- Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
 - Wardrobe number lock code provided upon request (Don't change this please.)
 - Tinxy wifi lock controller 
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
