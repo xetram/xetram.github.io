@@ -27,12 +27,25 @@ title = "Execution"
   - l4 FLOOR polishing - black spots
   - l1 floor polishing - bucket placement mark in hall and room
   - Cleaning off putty in 1F deva-gRha remained impossible (painters cited "rough surface").
-  - Painters missed certain spots in L3 when applying clear coat paint - back wall and wall above chajja towards the stairs. This led to dampness after rains.
+  - Painters missed certain spots in L3 when applying clear coat paint - back wall and wall above chajja towards the stairs. This led to dampness after rains. After months of delays, this was corrected later in 202204 by filling with putty, repainting. 2k charged.
+  - Paint peeled off window frame in L2 rear bathroom.
+- Wooden door for bathroom was a bad idea. Lower portion was later patched by screwing over plastic foamy boards.
 </details>
 
+## Wood
+### Doors
+- L0, L1, L2 Main Doors, L0 pUjA door - Solid Teak + polish.
+- L2 external room door, L3 main door - Solid Honne
+- Interior doors - Greenply Flush plywood (Hollow)
+  - In bathroom, lower portion was later patched by screwing over plastic foamy boards.
 
+### Interior cabinets
+- Wood laminates are often synthetic polymers. Polishes and varnishes tend to be synthetic as well. We went with Birch Plywood imported from Russia, purchased from Khemka Plywood at good prices. Quite good - mostly doesn't need polish - but better with it.
+- In hindsight, we should have done edge-bending lamination to mitigate bends in doors. Also, in some places, we saw mild mold formation. This was solved with linseed oil application.
+- Much of the wooden surfaces was polished with Raw linseed oil.
 
 ## Planning
 - Paperwork: BBMP approval was by Kiran(?). 
 - BESCOM contractor (for permanent connection) was nAgarjuna / manju (smooth talking scamster). 
 - BWSSB contractor was Govindarajulu (via nAgArjuna).
+
