@@ -63,6 +63,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 
 ## Plumbing
 - When installing water filters or washing machines - please take care to purchase appropriate adaptors which fit the fittings provided. Please don't let the plumber pry out fittings we've already installed. 
+- After using the shower mixer to get warm water, please turn all taps (especially the mixer) to neutral position. Otherwise, heated water will flow back into the pipeway (ie kitchen etc.) and you will waste energy (and money).
 
 ## Appliances
 
