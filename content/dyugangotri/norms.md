@@ -38,8 +38,15 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ## Terrace and balconeys
 - We do rainwater harvesting. So no litter or pollution on the roof.
 - No fireworks there - rockets launched from bottles are ok.
-- Please don’t put a clothes line facing neighbor Nadaf's balconey - he objects on aesthetic grounds. Drying rack should be fine.
 - First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being left on after 10PM. So, please take care.
+
+### Cloth drying
+- Terrace
+  - There are plentiful cloth-lines provided on terrace - you are welcome to use them. Please remember the 4+ monsoon rain months, though. 
+  - Please don't tie clotheslines diagonally in front of our terrace room door etc.. Use the lines provided or get a drying rack.
+- 1st floor 
+  - Drying rack is very useful during monsoon, when terrace is not suitable. Otherwise, you can have an unobtrusive clothesline in the balcony facing the road.
+  - Please don’t put a clothes line facing neighbor Nadaf's balconey - he objects on aesthetic grounds.
 
 ## Walls
 - Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
