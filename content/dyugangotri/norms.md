@@ -46,7 +46,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
   - Please don't tie clotheslines diagonally in front of our terrace room door etc.. Use the lines provided or get a drying rack.
 - 1st floor 
   - Drying rack is very useful during monsoon, when terrace is not suitable. Otherwise, you can have an unobtrusive clothesline in the balcony facing the road.
-  - Please don’t put a clothes line facing neighbor Nadaf's balconey - he objects on aesthetic grounds.
+  - Please don’t put a clothes line facing neighbor Nadaf's balconey during non-monsoon months - he objects on aesthetic grounds.
 
 ## Walls
 - Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
