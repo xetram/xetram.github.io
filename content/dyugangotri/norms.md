@@ -43,7 +43,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ### Cloth drying
 - Terrace
   - There are plentiful cloth-lines provided on terrace - you are welcome to use them. Please remember the 4+ monsoon rain months, though. 
-  - Please don't tie clotheslines diagonally in front of our terrace room door etc.. Use the lines provided or get a drying rack.
+  - Please don't tie clotheslines diagonally in front of the terrace room door etc. (unless you've rented the terrace room). Use the lines provided or get a drying rack.
 - 1st floor 
   - Drying rack is very useful during monsoon, when terrace is not suitable. Otherwise, you can have an unobtrusive clothesline in the balcony facing the road.
   - Please don’t put a clothes line facing neighbor Nadaf's balconey during non-monsoon months - he objects on aesthetic grounds.
