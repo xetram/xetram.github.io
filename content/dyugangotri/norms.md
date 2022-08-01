@@ -73,8 +73,9 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - After using the shower mixer to get warm water, please turn all taps (especially the mixer) to neutral position. Otherwise, heated water will flow back into the pipeway (ie kitchen etc.) and you will waste energy (and money).
 
 ## Appliances
-
-- Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
+- Chimney/ kitchen exhaust
+  - You are expected to use the chimney or kitchen exhaust provided. This is the most economical way of keeping the walls free of grease and avoiding cleaning charges.
+  - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
 - Wardrobe number lock code provided upon request (Don't change this please.)
 - Tinxy wifi lock controller 
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
