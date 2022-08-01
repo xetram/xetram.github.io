@@ -74,7 +74,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 
 ## Appliances
 - Chimney/ kitchen exhaust
-  - You are expected to use the chimney or kitchen exhaust provided. This is the most economical way of keeping the walls free of grease and avoiding cleaning charges.
+  - You are expected to use the chimney or kitchen exhaust provided. This is the most economical way of keeping the walls free of grease and avoiding cleaning/ natural painting charges.
   - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
 - Wardrobe number lock code provided upon request (Don't change this please.)
 - Tinxy wifi lock controller 
