@@ -8,8 +8,8 @@ Welcome and have a pleasant stay. This page should help you fit right in. Owners
 
 Telegram channels for asynchronous communication (Owner and respective current occupant families only):
 
-- L1 [https://t.me/joinchat/XnMFL_ABLbcyNWUx](https://t.me/joinchat/XnMFL_ABLbcyNWUx)
-- L3?
+- L1 [L1](https://t.me/joinchat/XnMFL_ABLbcyNWUx)
+- [L3](https://t.me/+VK4SltDnKJdlMGVh)
 
 
 ## Occupancy
