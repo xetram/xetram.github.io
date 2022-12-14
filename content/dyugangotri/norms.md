@@ -34,11 +34,13 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Responsibility/ share of repair will be reasonably assigned on a case-by-case basis.
 - Any significant modifications require written permission. Example: Drilling big holes, changing household wiring, wallpapers, painting.
 
+## Stairs
+- Remember to turn off stair-lights after late-night use (there are two-way switches on either ends of the stairs). Will avoid sleep-disturbance since the bright lights are right next to bedroom windows (even neighbor Nadaf objects).
+
 
 ## Terrace and balconeys
 - We do rainwater harvesting. So no litter or pollution on the roof.
 - No fireworks there - rockets launched from bottles are ok.
-- First floor stair lights are opposite to neighbor Nadaf’s bedroom, and he objects to it being left on after 10PM. So, please take care.
 
 ### Cloth drying
 - Terrace
