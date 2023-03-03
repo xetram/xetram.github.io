@@ -31,7 +31,7 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 <details><summary>विज्ञापनानि</summary>
 
 - [NB](https://www.nobroker.in/property/2-bhk-apartment-for-rent-in-1690-6th-main-rd-bangalore-for-rs-16500/8a9fb4827c58eff0017c598bb97b639a/detail)
-- [OLX](https://www.olx.in/item/1666060147)
+- [OLX](https://www.olx.in/item/1666060147) . Exp. must wait until May 23.
 - [FB](https://www.facebook.com/marketplace/item/588997152385839)
 - </details>
 
