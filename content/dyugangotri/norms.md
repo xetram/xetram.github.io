@@ -6,10 +6,14 @@ title = "Norms"
 ## Intro
 Welcome and have a pleasant stay. This page should help you fit right in. Owners occupy L0 and L2 (ground and second floors).
 
+<details><summary>Message channels</summary>
+
 Telegram channels for asynchronous communication (Owner and respective current occupant families only):
 
 - L1 [L1](https://t.me/joinchat/XnMFL_ABLbcyNWUx)
 - [L3](https://t.me/+VK4SltDnKJdlMGVh)
+</details>
+
 
 
 ## Occupancy
