@@ -4,7 +4,11 @@ title = "Norms"
 
 
 ## Intro
-Welcome and have a pleasant stay. This page should help you fit right in. Owners occupy L0 and L2 (ground and second floors).
+Welcome and have a pleasant stay. Based on years of observation, we've compiled this page to maximize pleasure and harmony. May vAstoShpati be pleased!
+
+{{< figure src="../images/vAstu-puruSha-1.jpg" title="" class="thumbnail">}}
+
+Owners occupy L0 and L2 (ground and second floors).
 
 <details><summary>Message channels</summary>
 
@@ -52,8 +56,8 @@ Telegram channels for asynchronous communication (Owner and respective current o
   - Please don't tie clotheslines diagonally in front of the terrace room door etc. (unless you've rented the terrace room). Use the lines provided or get a drying rack.
   - Please don't use ropes which degrade with rain and sun (esp. nylon). We've observed remains of such threads polluting rain water harvested into our sump and clogging the filters.
 - 1st floor 
-  - Drying rack is very useful during monsoon, when terrace is not suitable. Otherwise, you can have an unobtrusive clothesline in the balcony facing the road.
-  - Please don’t put a clothes line facing neighbor Nadaf's balconey during non-monsoon months - he objects on aesthetic grounds.
+  - Drying rack is very useful during monsoon, when terrace is not suitable.
+  - You can have unobtrusive clotheslines in the balcony (eg. low in the front or high + diagonal between the door and pillar). But please don’t put a clothes line parallely next to neighbor Nadaf's balconey - he objects on aesthetic grounds.
 
 ## Walls
 - Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
@@ -84,5 +88,5 @@ Telegram channels for asynchronous communication (Owner and respective current o
   - You are expected to use the chimney or kitchen exhaust provided. This is the most economical way of keeping the walls free of grease and avoiding cleaning/ natural painting charges.
   - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
 - Wardrobe number lock code provided upon request (Don't change this please.)
-- Tinxy wifi lock controller 
+- Tinxy wifi lock controller (Possibly)
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
