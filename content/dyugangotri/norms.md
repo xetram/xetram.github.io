@@ -59,6 +59,12 @@ Telegram channels for asynchronous communication (Owner and respective current o
   - Drying rack is very useful during monsoon, when terrace is not suitable.
   - You can have unobtrusive clotheslines in the balcony (eg. low in the front or high + diagonal between the door and pillar). But please don’t put a clothes line parallely next to neighbor Nadaf's balconey - he objects on aesthetic grounds.
 
+### Pots
+We do rainwater harvesting.  
+Water runoff from pots should not contaminate our sump (especially if contaminated with chemical fertilizers, pesticides or waste).  
+Can keep pots indoors, or in area near the tap where water does not drain to the sump.  
+Alternatively, can keep pots in deep tubs (if one is confident of periodically emptying the tubs so as to prevent overflowing.)
+
 ## Walls
 - Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
 - Don't paint or write on walls with ink. We prefer not to paint walls in our eco-friendly, healthy building. Chalkpiece or other easily erasable material is ok - but should not erode walls.
