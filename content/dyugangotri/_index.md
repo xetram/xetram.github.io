@@ -29,13 +29,13 @@ title = "+dyugangotri homes"
 </details>
 
 
-
-<details><summary>Utilities</summary>
+## Utilities
+<details><summary>Accounts</summary>
 
 - BESCOM (Electricity)
-  - C8EH-37259 (0021079340) 5kW L0
-  - C8EH-37260 (0363498932) 3kW L1
-  - C8EH-37261 (6709269344) 3kW Motor
+  - C8EH-37259 (0021079340) 5kW L0 (Green display)
+  - C8EH-37260 (0363498932) 3kW L1 (Orange display)
+  - C8EH-37261 (6709269344) 3kW Motor (Orange display)
 - BWSSB (Water and sewage)
 - GAIL (Piped Gas) connections
   - L0 4000452135
@@ -43,4 +43,15 @@ title = "+dyugangotri homes"
   - L2 4000452227
 - BBMP (Garbage clearance)
 </details>
+
+
+### Fuses
+
+
+<details><summary>History</summary>
+
+- 660V 32A HBC fuse-links (80kagG IEC-269) used for L1 and L0+L2 since 202104. The latter blew by 202306.
+- Cu wire strands used as fuse-links for Motor.
+</details>
+
 
