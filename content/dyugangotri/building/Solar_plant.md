@@ -16,7 +16,7 @@ title = "Solar plant"
   - In 50mm (2") pipes  (2.5" bolts) - (3+3)*7 + 3 = 45. 
 
 ## Panels
-- Waree Mono 445Wp - 9 installed
+- Waree Mono+++(-crystalline)+++ 445Wp - 9 installed
   - structure
     - Aluminium beading - 4 holes on long edges. 1 inch gap.
   - Details stored elsewhere.
