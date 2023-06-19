@@ -94,5 +94,11 @@ Alternatively, can keep pots in deep tubs (if one is confident of periodically e
   - You are expected to use the chimney or kitchen exhaust provided. This is the most economical way of keeping the walls free of grease and avoiding cleaning/ natural painting charges.
   - Glen 1050 cm/h demo (1st and 2nd floors) and maintenance instructions [here](https://www.youtube.com/watch?v=dwt-zLlZQiY). L0 [Glen 1200 cm/h demo](https://www.youtube.com/watch?v=Q2CSz7s76tY).
 - Wardrobe number lock code provided upon request (Don't change this please.)
-- Tinxy wifi lock controller (Possibly)
 - Controls for exterior plug point are deliberately placed indoor, so that occupants can disable them when they want. This is done to ensure that thieves don’t use them to turn on power tools facilitating break-ins. Such controls are marked with a `^` sign as of this writing.
+
+<details><summary>Tinxy wifi lock</summary>
+
+If you want to use mobile phone to lock/unlock via wifi please install tinxy app from Google Play store or Apple store - Install tinxy app  - but don't sign in yet. The host will send you an invite. Then sign in.
+
+Be sure to keep a copy of the key outside somewhere in case of power/ internet failure!
+</details>
