@@ -33,6 +33,7 @@ title = "+dyugangotri homes"
 <details><summary>Accounts</summary>
 
 - BESCOM (Electricity)
+  - C8 subdivision. Complaint number 1912.
   - C8EH-37259 (0021079340) 5kW L0 (Green display)
   - C8EH-37260 (0363498932) 3kW L1 (Orange display)
   - C8EH-37261 (6709269344) 3kW Motor (Orange display)
