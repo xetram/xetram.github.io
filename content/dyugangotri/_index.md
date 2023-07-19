@@ -51,8 +51,9 @@ title = "+dyugangotri homes"
 
 <details><summary>History</summary>
 
-- 660V 32A HBC fuse-links (80kagG IEC-269) used for L1 and L0+L2 since 202104. The latter blew by 202306.
-- Cu wire strands used as fuse-links for Motor.
+- 660V 32A HBC fuse-links (80kagG IEC-269) used for L1 and L0+L2 since 202104. The latter blew by 202306. 
+- Blew again on 202307.
+- Cu wire strands used as fuse-links for Motor till 202306.
 </details>
 
 
