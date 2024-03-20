@@ -6,6 +6,19 @@ title = "+dyugangotri homes"
 - 3D simulation [here](http://www.sweethome3d.com/viewHome.jsp?id=2232).
 - 2nd floor video [here](https://youtu.be/ozi190bX_Zk).
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+{{< figure src="images/dg-map-angle" title="" class="thumbnail">}}
+
+Site faces 125.5 deg from N = 215.5 deg from E = 35.5 degrees south of west. (Phone compass erroneous - showed (~203 deg from E))
+
+Site dimensions: 30ft x 40 ft (9.144m * 12.192m) (actually 40'10"). Area: 1200 sq ft = 111.484 sq mts.  
+left - 11'8" wall fully covered.  
+back - mesh 9'9". open portion 2'7". width 30'. closed portion estimated wall height - 38' , with tank - 48'
+
+</details>
+
+
 ## Features
 ### Architectural
 - Bay windows in L1 and L2 floors.
@@ -43,8 +56,12 @@ title = "+dyugangotri homes"
   - L1 4000452136
   - L2 4000452227
 - BBMP (Garbage clearance)
+- BBMP Property/ khata no. 1372/1375/1690 Sy. no. RMS
+  LAYOUT/ SAHAKARNAGAR B BLOCK & C BLOCK,YELAHANKA HOBLI Ward-008, Yelahanka zone , Bengaluru.
+  - Annual tax (owner occupied): 6k INR/ year. (2022)
 </details>
 
+- Borewell depth ~ 500ft, with casing pipe, Texmo motor (2 repairs guaranteed in first year).
 
 ### Fuses
 
