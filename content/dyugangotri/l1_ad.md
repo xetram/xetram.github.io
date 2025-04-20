@@ -4,7 +4,7 @@ title = "L1 Ad"
 Shorurl - https://rebrand.ly/dgL1Ad .
 
 ## About you
-- NO BROKERS PLEASE.  Available from Jan 2.
+- NO BROKERS PLEASE.  Available from ??.
 - No Non-Vegetarian food (meat, fish etc..) on premises.
 - No dogs or cats.
 - Contact 9880891907 ९८८०८९१०७ ೯೮೮೦೮೯೧೯೦೭
