@@ -17,6 +17,7 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 - **Super amenities**- No-touch Chimney, Electronic-capable lock, UPS/ cable/ internet provisions, Plentiful (heating and lighting) plug points.
 - Covered parking for bikes. Ample street parking for cars.
 - Good, calm neighborhood - details [here](https://xetram.github.io/dyugangotri/neighborhood/) .
+- Norms [here](../norms).
 
 ## Videos
 - Interior tour - [YT](https://youtu.be/Tra2BHSSDxY)
@@ -33,10 +34,11 @@ Shorurl - https://rebrand.ly/dgL1Ad .
 - [NB](https://www.nobroker.in/property/2-bhk-apartment-for-rent-in-1690-6th-main-rd-bangalore-for-rs-16500/8a9fb4827c58eff0017c598bb97b639a/detail)
 - [OLX](https://www.olx.in/item/1666060147) . Exp. must wait until May 23.
 - [FB](https://www.facebook.com/marketplace/item/588997152385839)
-- </details>
+</details>
 
 <details><summary>Known defects</summary>
 
+- Thick texture paint not adhering to the rear bedroom-bathroom wall, behind the door. It's not in danger of falling - just leave it undisturbed.
 - Crack in the 2nd bedroom wall which is running from the base of the window to the floor level.
   - We'd noticed this soon after construction. We check with our structural engineer - he clarified that this stress fracture is nothing to worry about. Just a cosmetic defect.
 - Crack in the bathroom mirror.

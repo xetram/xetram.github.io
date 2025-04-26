@@ -54,7 +54,7 @@ Telegram channels for asynchronous communication (Owner and respective current o
 - Terrace
   - There are plentiful cloth-lines provided on terrace - you are welcome to use them. Please remember the 4+ monsoon rain months, though. 
   - Please don't tie clotheslines diagonally in front of the terrace room door etc. (unless you've rented the terrace room). Use the lines provided or get a drying rack.
-  - Please don't use ropes which degrade with rain and sun (esp. nylon). We've observed remains of such threads polluting rain water harvested into our sump and clogging the filters.
+  - Please don't use ropes and clips which degrade with rain and sun (esp. nylon). We've observed remains of such threads polluting rain water harvested into our sump and clogging the filters.
 - 1st floor 
   - Drying rack is very useful during monsoon, when terrace is not suitable.
   - You can have unobtrusive clotheslines in the balcony (eg. low in the front or high + diagonal between the door and pillar). But please don’t put a clothes line parallely next to neighbor Nadaf's balconey - he objects on aesthetic grounds.
@@ -62,13 +62,26 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ### Pots
 We do rainwater harvesting.  
 Water runoff from pots should not contaminate our sump (especially if contaminated with chemical fertilizers, pesticides or waste).  
-Can keep pots indoors, or in area near the tap where water does not drain to the sump.  
+Can keep pots indoors, or in L0, L1, L2 balconeys or in terrace, under solar panels, in deep tubs.  
 Alternatively, can keep pots in deep tubs (if one is confident of periodically emptying the tubs so as to prevent overflowing.)
 
 ## Walls
 - Please ask for prior written permission and guidance if drilling big holes for AC or chimney.
 - Don't paint or write on walls with ink. We prefer not to paint walls in our eco-friendly, healthy building. Chalkpiece or other easily erasable material is ok - but should not erode walls.
 - Drive nails (if needed) only in grouts between bricks. Use preexisting nails where possible. Also, electric pipe positions can easily be deduced in our mud block walls - so you can avoid them by looking for slight linear color difference.
+
+## Floor 
+- All floors except L0 and bathrooms are cement with colored wax coat. Rest are ceramic-tiles.
+- Cement floors are not as tough as ceramic tiles. So, it is possible to gash and cause holes, for example, due to heavy sharp furniture feet. So, please take appropriate precautions like using bushes/ carboard underneath. 
+
+{{< figure src="../images/heavy-furniture-leg-gouged-cement-floor.jpg" title="" class="thumbnail">}}
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Damage fix - fill with cement. Then apply wax.  
+Putty or wax filling won't work - will come out.
+</details>
+
 
 ## Wiring
 - UPS points are provided as follows:
