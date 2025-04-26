@@ -71,7 +71,7 @@ Alternatively, can keep pots in deep tubs (if one is confident of periodically e
 - Drive nails (if needed) only in grouts between bricks. Use preexisting nails where possible. Also, electric pipe positions can easily be deduced in our mud block walls - so you can avoid them by looking for slight linear color difference.
 
 ## Floor 
-- All floors except L0 and bathrooms are cement with colored wax coat. Rest are ceramic-tiles.
+- All floors except L0 and bathrooms are cement with colored wax coat. Rest are ceramic-tiled.
 - Cement floors are not as tough as ceramic tiles. So, it is possible to gash and cause holes, for example, due to heavy sharp furniture feet. So, please take appropriate precautions like using bushes/ carboard underneath. 
 
 {{< figure src="../images/heavy-furniture-leg-gouged-cement-floor.jpg" title="" class="thumbnail">}}
