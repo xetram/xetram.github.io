@@ -37,12 +37,15 @@ Panel Serial No.: WS09219001787378, WS09219001787374, WS09219001787522, WS092190
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-- Inverters: 122136005411, 122136005441, 122136006812, 122136006900, 122136007305, 122136007544, 122136011781, 122136011788, 122136011862.
+- Inverters: 122136005411, 122136005441, 122136006812, 122136006900, 122136007305, 122136007544, 122136011781, 122345025047, 122136011862.
 - Site id: 2568741
 
 - Management link [here](https://enlighten.enphaseenergy.com/activations/edit/2568741).
 - Warranty and other docs in [external site](https://vishvasa.github.io/notes/power/electricity/inverter/enphase).
   - 10 yrs from 24 Nov 2021 (Cares Renewables Chennai).
+
+- 122136011788 stopped responding around Apr 26 2025. DC connector (inverter end) seemed melted.  Replaced with 122345025047 (IQ7A-72-2-INT 880-00689 25) on May 4.  
+
 </details>
 
 
