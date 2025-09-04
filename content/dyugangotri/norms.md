@@ -23,9 +23,11 @@ Telegram channels for asynchronous communication (Owner and respective current o
 ## Occupancy
 - Any significant increase in occupancy requires prior approval. Examples: A few guests staying in for multiple weeks, or big group of visitors sleeping over.
 - Big events outside your portion of the premises (example: parties in the terrace) require prior approval.
-- <u>No smoking</u> anywhere in or around the building.
+- Hygene
+  - <u>No smoking</u> anywhere in or around the building.
+  - No dogs or cats.
+  - Accidents are ok; but kids with adult permission may not urinate outside the bathroom (eg. in the balconey drain or sink).
 - No Non-Vegetarian food (meat, fish etc..) on premises.
-- No dogs or cats.
 - No illegal activities online or offline which could land us in trouble.
 - Segregating dry and wet waste is a must.
 - Background cultural norms: Traditional Hindu.
