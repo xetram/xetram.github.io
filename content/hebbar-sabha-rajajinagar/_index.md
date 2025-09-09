@@ -3,7 +3,8 @@ title: "॥हॆब्बार-श्रीवैष्णव-सभा रा
 sidebar: hebbar-sabha-rajajinagar_sidebar
 ---
 
-{{< figure src="images/logo.jpg" title="Hebbar Sabha Rajajinagar" >}}
+![](images/logo.jpg)
+{title="Hebbar Sabha Rajajinagar"}
 
 ## Intro
 - Hebbar Sabha main site [here](http://www.hebbarsabha.org/). 

@@ -8,7 +8,8 @@ title = "+dyugangotri homes"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-{{< figure src="images/dg-map-angle" title="" class="thumbnail">}}
+![](images/dg-map-angle)
+{title="" class="thumbnail"}
 
 Site faces 125.5 deg from N = 215.5 deg from E = 35.5 degrees south of west. (Phone compass erroneous - showed (~203 deg from E))
 

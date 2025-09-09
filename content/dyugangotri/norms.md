@@ -6,7 +6,8 @@ title = "Norms"
 ## Intro
 Welcome and have a pleasant stay. Based on years of observation, we've compiled this page to maximize pleasure and harmony. May vAstoShpati be pleased!
 
-{{< figure src="../images/vAstu-puruSha-1.jpg" title="" class="thumbnail">}}
+![](../images/vAstu-puruSha-1.jpg)
+{title="" class="thumbnail"}
 
 Owners occupy L0 and L2 (ground and second floors).
 
@@ -76,7 +77,8 @@ Alternatively, can keep pots in deep tubs (if one is confident of periodically e
 - All floors except L0 and bathrooms are cement with colored wax coat. Rest are ceramic-tiled.
 - Cement floors are not as tough as ceramic tiles. So, it is possible to gash and cause holes, for example, due to heavy sharp furniture feet. So, please take appropriate precautions like using bushes/ carboard underneath. 
 
-{{< figure src="../images/heavy-furniture-leg-gouged-cement-floor.jpg" title="" class="thumbnail">}}
+![](../images/heavy-furniture-leg-gouged-cement-floor.jpg)
+{title="" class="thumbnail"}
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
